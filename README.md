@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue-js and Electron**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ClaudioJansen](github.com/ClaudioJansen)
+- 👨‍💻 All of my projects are available at [github.com/ClaudioJansen](https://github.com/ClaudioJansen)
 
 - 📫 How to reach me **caujansen@gmail.com**
 
