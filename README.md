@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=claudiojansen&label=Profile%20views&color=0e75b6&style=flat" alt="claudiojansen" />
 </p>
 
-- 🌱 I’m currently learning **Vue-js and Electron**
-
 - 👨‍💻 All of my projects are available at [github.com/ClaudioJansen](https://github.com/ClaudioJansen)
 
 - 📫 How to reach me **caujansen@gmail.com**
