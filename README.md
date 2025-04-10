@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/ClaudioJansen](https://github.com/ClaudioJansen)
 
-- 📫 How to reach me [**caujansen@gmail.com**](https://www.linkedin.com/in/cl%C3%A1udio-jansen-5291b21b6/)
+- 📫 How to reach me [**LinkedIn**](https://www.linkedin.com/in/cl%C3%A1udio-jansen-5291b21b6/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
